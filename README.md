@@ -9,5 +9,5 @@ Steps to get this code running:
   4. Run.
 
 Note:
-For a normal Full HD monitor, make sure to change the console default size values to 120x40 (or anything with the same resolution, whichever works the best for you) and set the font to "Consolas" with font size 16.
+For a normal Full HD monitor, make sure to change the console default size values to 240x80 (or anything with the same resolution, whichever works the best for you) and set the font to "Consolas" with font size 8 and line height depending on your screen size.
 These are the values that worked the best for me, you might have to tinker with it a bit to get the best results.
