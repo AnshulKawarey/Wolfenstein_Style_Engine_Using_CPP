@@ -1,6 +1,6 @@
-# Wolfenstein_Style_Engine_Using_CPP
+# DOOM_Style_Engine_Using_CPP
 This is a prijecct I made in my 2nd year for college.
-It is a text based renderer which tries to mimic old game engines like Wolfenstein or Doom.
+It is a text based renderer which tries to mimic old game engines like Doom or Wolfenstein.
 
 Steps to get this code running:
   1. Install Microsoft Visual Studio.
