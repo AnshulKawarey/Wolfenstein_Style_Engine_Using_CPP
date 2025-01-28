@@ -1,13 +1,80 @@
-# DOOM_Style_Engine_Using_CPP
-This is a prijecct I made in my 2nd year for college.
-It is a text based renderer which tries to mimic old game engines like Doom or Wolfenstein.
+# DOOM-Style Engine Using C++
 
-Steps to get this code running:
-  1. Install Microsoft Visual Studio.
-  2. After setting it up properly create a new console project for C++ (Win32 Console Application) and make it an empty project.
-  3. Now paste the code in Game_Engine_1.cpp to your project file.
-  4. Run.
+This project is a text-based renderer I developed during my second year of college. It aims to mimic the rendering style of classic game engines like **DOOM** or **Wolfenstein 3D**, using the console as the rendering surface.
 
-Note:
-For a normal Full HD monitor, make sure to change the console default size values to 240x80 (or anything with the same resolution, whichever works the best for you) and set the font to "Consolas" with font size 8 and line height depending on your screen size.
-These are the values that worked the best for me, you might have to tinker with it a bit to get the best results.
+## Features
+- **Text-based rendering** to emulate retro graphics.
+- Minimalistic implementation inspired by early game engines.
+- Fully customizable console dimensions and font for best results.
+
+---
+
+## How to Run the Code
+
+Follow these steps to get the project up and running:
+
+1. **Install Microsoft Visual Studio**:
+   - Make sure Visual Studio is installed and properly set up on your system.
+
+2. **Create a New Project**:
+   - Create a new **Console Application** for C++ (Win32 Console Application).
+   - Ensure the project is created as an empty project.
+
+3. **Add the Code**:
+   - Copy the contents of `Game_Engine_1.cpp` into your project file.
+
+4. **Run the Project**:
+   - Build and run the project to see the DOOM-style text-based rendering in action.
+
+---
+
+## Configuration for Best Experience
+
+To get the best results, you may need to adjust the console settings. Below are the recommended settings for a Full HD monitor:
+
+1. **Console Dimensions**:
+   - Set the default size to `240x80` (or any resolution with the same aspect ratio).
+   - You can tweak this based on your screen size for optimal performance.
+
+2. **Font Configuration**:
+   - Font: `Consolas`
+   - Font Size: `8`
+   - Adjust the line height to match your screen size.
+
+> *Note*: These settings worked well for me, but depending on your setup, you might need to experiment to find the best configuration.
+
+---
+
+## Screenshots
+Add screenshots or GIFs showcasing the text-based rendering. For example:
+- A view of the game in action.
+- The console with recommended dimensions and settings.
+
+---
+
+## Tech Stack
+- **Language**: C++
+- **IDE**: Microsoft Visual Studio
+- **Rendering**: Console-based ASCII rendering
+
+---
+
+## Future Improvements
+- Add more advanced features like basic gameplay elements or AI.
+- Expand the renderer to support textures or pseudo-3D effects.
+- Port the project to other platforms (e.g., Linux or macOS).
+
+---
+
+## Contribution
+Feel free to fork the project and submit pull requests. Contributions are welcome!
+
+---
+
+## Acknowledgments
+- Inspired by the rendering techniques of **DOOM** and **Wolfenstein 3D**.
+- Thanks to the retro gaming community for their passion and creativity.
+
+---
+
+This version is more detailed, structured, and polished, making it easier for others to understand and contribute to your project. Let me know if you'd like any additional tweaks!
